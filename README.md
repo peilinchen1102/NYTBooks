@@ -16,6 +16,7 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 - [x] Improve and customize the user interface through styling and coloring
+- [x] The "Buy" button successfully opens the page on Amazon
 
 
 ## Video Walkthrough
